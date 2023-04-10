@@ -1,23 +1,8 @@
-<!--
-**Juns-g/Juns-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 <h1 align="center">Hi 👋, I'm Juns</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
-<h3 align="center">19-year-old college student</h3>
+<h3 align="center">20-year-old college student</h3>
 
 <p align="center"> <img src="https://wakatime.com/badge/user/73455cc8-f996-4e02-8893-aae0c93d291c.svg" alt="cloudmoonocus" /></p>
 <p align="center"> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cloudmoon/82a7d687-5691-4470-a027-a058186d7469.png" /></a></p>
@@ -33,7 +18,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **CSS, Vue, React and so on**
 
-- 📫 How to reach me **f356660222@foxmail.com**
+- 📫 How to reach me **juns.g@foxmail.com**
 
 - ⚡ Fun fact **Coding**
 
@@ -127,5 +112,5 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juns-g&" alt="Juns-g" /></p>
 <p align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Juns-g&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-    </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Juns-g&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+</p>
