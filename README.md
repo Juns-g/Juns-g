@@ -4,9 +4,17 @@
 
 <p align="center">
   <img
+    src="https://visitor-badge.glitch.me/badge?page_id=Juns-g"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github-readme-stats.vercel.app/api?username=Juns-g&show_icons=true&icon_color=5094F0&text_color=718096&bg_color=ffffff&hide_title=true"
   />
 </p>
+
+
 
 <div align="center">
   <p>● 🌱 I’m currently learning <b>Frontend and Communication Engineering</b></p>
