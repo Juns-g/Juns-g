@@ -4,17 +4,18 @@
 <h3 align="center">A passionate frontend developer from China</h3>
 <h3 align="center">20-year-old college student</h3>
 
-<p align="center"> <img src="https://wakatime.com/badge/user/73455cc8-f996-4e02-8893-aae0c93d291c.svg" alt="cloudmoonocus" /></p>
-<p align="center"> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cloudmoon/82a7d687-5691-4470-a027-a058186d7469.png" /></a></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudmoonocus" alt="cloudmoonocus" /></a> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Juns-g&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+</p>
 
-<p align="center"> <a href="https://twitter.com/moonclo57056359" target="blank"><img src="https://img.shields.io/twitter/follow/moonclo57056359?logo=twitter&style=for-the-badge" alt="moonclo57056359" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Juns-g" alt="Juns-g" /></a> </p>
+
 
 - 🌱 I’m currently learning **Frontend and Communication Engineering**
 
-- 👨‍💻 All of my projects are available at [https://cloudmoonocus.github.io](https://cloudmoonocus.github.io)
+- 👨‍💻 All of my projects are available at [temp empty]()
 
-- 📝 I regularly write articles on [https://juejin.cn/user/1095541400549022/posts](https://juejin.cn/user/1095541400549022/posts)
+- 📝 I regularly write articles on [temp empty]()
 
 - 💬 Ask me about **CSS, Vue, React and so on**
 
@@ -24,7 +25,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/ocus-nb-cloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ocus-nb-cloud" height="30" width="40" /></a>
+<a href="[https://codepen.io/ocus-nb-cloud](https://codepen.io/juns-g)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ocus-nb-cloud" height="30" width="40" /></a>
 <a href="https://twitter.com/moonclo57056359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moonclo57056359" height="30" width="40" /></a>
 <a href="https://discord.gg/6698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6698" height="30" width="40" /></a>
 </p>
@@ -100,17 +101,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-        alt="photoshop"
-        width="40"
-        height="40"
-    />
-</a>
+
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juns-g&" alt="Juns-g" /></p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Juns-g&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-</p>
+
