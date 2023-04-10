@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Juns-g/Juns-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Juns-g&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<h1 align="center">Hi 👋, I'm Cloudmoon</h1>
+
+<h1 align="center">Hi 👋, I'm Juns</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 <h3 align="center">19-year-old college student</h3>
 
@@ -127,4 +125,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudmoonocus&" alt="cloudmoonocus" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juns-g&" alt="Juns-g" /></p>
+<p align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Juns-g&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+    </p>
