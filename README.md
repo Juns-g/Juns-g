@@ -5,11 +5,8 @@
 <h3 align="center">20-year-old college student</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Juns-g&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Juns-g&show_icons=true&icon_color=5094F0&text_color=718096&bg_color=ffffff&hide_title=true" />
 </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Juns-g" alt="Juns-g" /></a> </p>
-
 
 - 🌱 I’m currently learning **Frontend and Communication Engineering**
 
@@ -23,14 +20,11 @@
 
 - ⚡ Fun fact **Coding**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="[https://codepen.io/ocus-nb-cloud](https://codepen.io/juns-g)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ocus-nb-cloud" height="30" width="40" /></a>
-<a href="https://twitter.com/moonclo57056359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moonclo57056359" height="30" width="40" /></a>
-<a href="https://discord.gg/6698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6698" height="30" width="40" /></a>
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Juns-g" alt="Juns-g" /></a> </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juns-g&layout=compact"/></p>
 <p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
