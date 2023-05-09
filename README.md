@@ -19,7 +19,7 @@
 <div align="center">
   <p>● 🌱 I’m currently learning <b>Frontend and Communication Engineering</b></p>
   <p>● 👨‍💻 All of my projects are available at [temp empty]()</p>
-  <p>● 📝 I regularly write articles on [juns-g.github.io](https://juns-g.github.io/)</p>
+  <p>● 📝 I regularly write articles on <a href="https://juns-g.github.io/">juns-g.github.io</a></p>
   <p>● 💬 Ask me about <b>CSS, Vue, React and so on</b></p>
   <p>● 📫 How to reach me <b>juns.g@foxmail.com</b></p>
   <p>● ⚡ Fun fact <b>Coding</b></p>
